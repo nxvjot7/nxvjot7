@@ -49,7 +49,7 @@ $ cat identity.txt
 <td valign="middle" width="65%">
 
 - ⛓️ **Web3 & Blockchain** → still going deeper
-- 🔴 Pentester `</>` no side, just skill
+- 🔴 Pentester `</>` {blackhat $ whitehat -both}
 - 👁️ Red Team | OSINT | I find what you hide
 - 🔐 Cryptography & protocol dissection
 - ⚙️ OS / hardware — close to the metal
